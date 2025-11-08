@@ -1,0 +1,3 @@
+# GET
+#http://localhost:5000/book/all
+http://localhost:5000/student/all

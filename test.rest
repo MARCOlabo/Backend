@@ -1,3 +1,11 @@
 # GET
 #http://localhost:5000/book/all
+
 http://localhost:5000/student/all
+
+### GET ALL Books
+GET http://localhost:5000/api/v1/books/test
+
+
+
+
